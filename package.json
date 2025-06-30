@@ -1,0 +1,12 @@
+{
+  "name": "n7-api-ticket-de-suporte",
+  "version": "1.0.0",
+  "description": "API for support ticket management",
+  "main": "sever.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Israel Teixeira",
+  "license": "ISC"
+}
